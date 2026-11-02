@@ -20,7 +20,7 @@ spec:
             - containerPort: 9898
           env:
             - name: PODINFO_UI_MESSAGE
-              value: checkout (dev)
+              value: hotfix
           resources:
             requests: { cpu: 50m, memory: 64Mi }
             limits: { memory: 128Mi }
