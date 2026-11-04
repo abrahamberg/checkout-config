@@ -5,7 +5,7 @@ resources:
   - ../base
 images:
   - name: ghcr.io/stefanprodan/podinfo
-    newTag: 6.7.1
+    newTag: 6.7.0
 replicas:
   - name: checkout
     count: 2
