@@ -1,0 +1,5 @@
+# checkout in dev. Values for the chart in checkout-app.
+image:
+  tag: "6.7.1"                 # promote by changing this line
+message: checkout (dev)
+replicas: 1
